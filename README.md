@@ -18,4 +18,4 @@ source:
 * warp_veyke
 
 replit
-* https://replit.com/@qwqqinlao369/YouTube-Ke-Ji-Gong-Xiang-warp-key-generator
+* https://replit.com
