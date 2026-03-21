@@ -5,7 +5,7 @@ a simple tool that automatically collects 15 WARP+ Keys once every hour.<br>
 
 
 * Lite Version:
-* https://raw.githubusercontent.com/qinlao/warpkey/main/plus/lite
+* https://raw.githubusercontent.com/qinlao1/warpkey/refs/heads/main/plus/lite
 * Full Version:
 * https://raw.githubusercontent.com/qinlao/warpkey/main/plus/full
 
